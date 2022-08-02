@@ -55,3 +55,5 @@ print(generator())
 print(loop_for.__name__)
 print(list_compr.__doc__)
 print(generator.__doc__)
+
+print(generator.__name__)
